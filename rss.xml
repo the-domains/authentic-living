@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Authentic Living]]></title>
         <description><![CDATA[Authentic Living]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/authentic-living/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 08:38:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 08:39:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/authentic-living/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/authentic-living/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">94cc4875-d2ee-4bed-930c-4daf62f7a080</guid>
-            <pubDate>Sat, 19 Dec 2015 08:38:30 GMT</pubDate>
+            <pubDate>Sat, 19 Dec 2015 08:38:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
